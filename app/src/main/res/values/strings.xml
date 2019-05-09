@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flickr Fetcher</string>
+    <string name="error_unable_fetch_data">Unable to fetch data</string>
+    <string name="error_invalid_data">Please enter valid data</string>
+    <string name="search_hint">Enter search string</string>
+    <string name="btn_search">Search</string>
+</resources>
