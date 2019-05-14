@@ -12,10 +12,11 @@ This is a sample project that fetches pictures from Flickr. This project has bee
 * [Stetho](https://github.com/facebook/stetho)
 
 ## Before you start
-Please generate API Tocken from the [flickr developer website](https://www.flickr.com/services/api/) and add it in file **MainRepo.java** like below:
+Please generate API Token from the [flickr developer website](https://www.flickr.com/services/api/) and add it in file **MainRepo.java** like below:
 ```java
 private static final String API_KEY = "ADD_API_TOKEN_HERE";
 ```
+Without this step, the app will **NOT WORK** 
 ## Working
 The whole application is divided into the following major parts:
 
