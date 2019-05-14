@@ -42,6 +42,7 @@ LiveData along with Room is used to inform the ViewModel whenver new insertions 
 easily refreshed whenever a response is received.
 
 ## Screenshots
-
-
+---
+![](screenshots/photogrid.png)
+![](screenshots/photogrid_land.png)
 
