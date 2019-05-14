@@ -31,7 +31,7 @@ public class MainRepo {
 
     private static final String LOGGER_TAG = MainRepo.class.getSimpleName();
     private static final String ROOT_PATH = "https://api.flickr.com/";
-    private static final String API_KEY = "9bd3235c105afc35cdddd796c82c9f60";
+    private static final String API_KEY = "ADD_API_TOKEN_HERE";
     private static final String FORMAT = "json";
     private PhotoDao mPhotoDao;
     private LiveData<List<Photo>> mLastAddedPhotos = null;
